@@ -114,18 +114,6 @@ Output:
 
 > {danger} Here is an example of danger colored alarm
 
-You are also able to use font-awesome icons in alarms.
-
-Input: 
-
-```text
-> {danger.fa-exclamation-triangle} Here is an example of a font awesome icon
-```
-
-Output:
-
-> {danger.fa-exclamation-triangle} Here is an example of a font awesome icon
-
 <a name="toc">
 ## Table of Content
 
