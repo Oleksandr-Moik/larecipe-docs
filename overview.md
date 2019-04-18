@@ -16,7 +16,7 @@ Writing documentation is boring? Hah, let's see.
 ## Gold Sponsors
 
 
-<object type="image/svg+xml" data="https://opencollective.com/larecipe/tiers/gold-sponsors.svg?avatarHeight=36&width=300"></object>
+<object type="image/svg+xml" data="https://opencollective.com/larecipe/tiers/gold-sponsors.svg?avatarHeight=100"></object>
 
 
 <a name="overview"></a>
