@@ -89,3 +89,5 @@ LaRecipe package uses internally some open-source third-party libraries/packages
 + symfony/dom-crawler - Dom manipulation.
 + phpunit/phpunit - PHP unit testing library.
 + orchestra/testbench - Unit test package for Laravel packages.
+
+<larecipe-newsletter></larecipe-newsletter>
